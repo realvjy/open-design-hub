@@ -1,1 +1,2 @@
-# open-design-hub
+# Open Design Hub
+Coming Soon
